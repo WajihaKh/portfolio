@@ -15,7 +15,7 @@
         "startDate": "2024",
         "description": "During Salmon Week, I took on the formidable task of creating a dynamic table to display cookie sales data by the hour and cities. Armed with basic HTML, CSS, and JavaScript skills, each day presented its unique struggles as I aligned the project with provided prompts. Salmon Week refined my problem-solving skills and deepened my grasp of web development principles. Collaboration with peers fostered a supportive learning environment.",
         "images": [
-          "images/portfolio//salmon.jpg"
+          "images/portfolio/cookie-stand/salmon.jpg"
         ],
         "url": "https://wajihakh.github.io/cookie-stand/html/",
         "technologies": [
@@ -52,56 +52,32 @@
         "images": [
           "images/portfolio/coming-soon/coming-soon.jpg"
         ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
+        "url": "https://github.com"
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Zaitoon Kitchen",
+        "title": "Front-end position",
+        "years": "09.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Point of sale system"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Point of sale interface",
+          "Menu display system"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "TJ-MAXX",
+        "title": "Sales associate",
+        "years": "10.2021 - 09.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Point of sale system"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Point of sale system",
+          "Inventory management system"
         ]
       }
     ]
