@@ -11,38 +11,29 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Cookie Stand",
+        "startDate": "2024",
+        "description": "During Salmon Week, I took on the formidable task of creating a dynamic table to display cookie sales data by the hour and cities. Armed with basic HTML, CSS, and JavaScript skills, each day presented its unique struggles as I aligned the project with provided prompts. Salmon Week refined my problem-solving skills and deepened my grasp of web development principles. Collaboration with peers fostered a supportive learning environment.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio//salmon.jpg"
         ],
-        "url": "",
+        "url": "https://wajihakh.github.io/cookie-stand/html/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
+          
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Gallery of Horns",
+        "startDate": "2024",
+        "description": "In the initial week of my 301 course, I immersed myself in Bootstrap and React, tackling the creation of a website featuring rows of horned beast cards, each with a name and description. Leveraging prior project experiences, I grasped the efficiencies of React, simplifying complex coding tasks. Exploring React unveiled its simplicity and efficiency, enhancing my understanding of web development practices. I implemented interactive card displays, where user interaction would reveal individual details. Additionally, I incorporated filtering functionality based on the number of horns each beast possessed.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/gallery-of-horns/mouflon.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://jolly-dusk-7ded49.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,12 +46,11 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "301 Final Project",
+        "startDate": "2024",
+        "description": " Coming Soon!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/coming-soon/coming-soon.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
